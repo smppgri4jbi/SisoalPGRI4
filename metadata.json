@@ -1,0 +1,6 @@
+{
+  "name": "SiUjian SMP PGRI 4 JAMBI - Generator Soal & Penilaian Standar Nasional",
+  "description": "Aplikasi pembuatan naskah soal ujian SMP dengan bank soal otomatis berbasis AI dan Kurikulum Merdeka/K13 serta sistem penilaian standar nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
